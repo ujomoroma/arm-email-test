@@ -1,0 +1,24 @@
+{
+  "name": "arm",
+  "version": "1.0.0",
+  "description": "Test package to compose and send an email",
+  "main": "email-test.js",
+  "dependencies": {
+    "selenium-webdriver": "^4.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node email-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujomoroma/arm-email-test.git"
+  },
+  "author": "Ifeoma Ujomor Glory",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ujomoroma/arm-email-test/issues"
+  },
+  "homepage": "https://github.com/ujomoroma/arm-email-test#readme"
+}
